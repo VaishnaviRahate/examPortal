@@ -1,0 +1,13 @@
+.example-header-image {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rzpIhbpJbLpC1TfzAVq_UisyUGNk2-q1iA&usqp=CAU');
+    background-size: cover;
+  }
+
+
+  .mat-flat-button.mat-green {
+    color: green;
+ }
+
+ .mat-flat-button.mat-blue {
+  color: blue;
+}
